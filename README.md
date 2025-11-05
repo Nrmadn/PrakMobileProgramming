@@ -17,3 +17,4 @@
 | 10   | 08-10-2025 | 06           | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](https://drive.google.com/file/d/1bRvSawsU6FIWKGXhGxjBkOIoPUhp7msS/view?usp=drivesdk) | [Program](https://github.com/Nrmadn/PraktikumMobile_Modul10) |
 | 10   | 15-10-2025 | 07           | Manajemen State dengan GetX | [Modul 11](https://drive.google.com/file/d/10BfGLcko_06ft-UrZ6LSXGnawErmNO--/view?usp=drivesdk) | [Program](https://github.com/Nrmadn/PraktikumMobile_Modul11) |
 | 11   | 22-10-2025 | uts           | Ujian Tengah Semester | [UTS](https://drive.google.com/file/d/16xjXZ13cYMNw0IUJiKinCuY1t-YF1kE4/view?usp=drivesdk) | [Program](https://github.com/Nrmadn/PraktikumMobileUTS) |
+| 13   | 05-11-2025 | 09           | Akses Lokasi dengan GPS di Flutter | [Modul 12](https://drive.google.com/file/d/1MhCUM-vyKAL8x5WRnmynihxruadKYaOI/view?usp=drivesdk) | [Program](https://github.com/Nrmadn/PraktikumMobile_Modul12) |
