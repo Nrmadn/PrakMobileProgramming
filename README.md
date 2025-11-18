@@ -19,3 +19,4 @@
 | 11   | 22-10-2025 | uts           | Ujian Tengah Semester | [UTS](https://drive.google.com/file/d/16xjXZ13cYMNw0IUJiKinCuY1t-YF1kE4/view?usp=drivesdk) | [Program](https://github.com/Nrmadn/PraktikumMobileUTS) |
 | 13   | 05-11-2025 | 09           | Akses Lokasi dengan GPS di Flutter | [Modul 12](https://drive.google.com/file/d/1MhCUM-vyKAL8x5WRnmynihxruadKYaOI/view?usp=drivesdk) | [Program](https://github.com/Nrmadn/PraktikumMobile_Modul12) |
 | 14   | 12-11-2025 | 10           | Akses Lokasi dengan GPS di Flutter II | [Modul 13](https://drive.google.com/file/d/1bTYL0ZiVJh4IqOOzkwzi0TaIlV2X8cvF/view?usp=drive_link) | [Program](https://github.com/Nrmadn/PraktikumMobile_Modul13) | 
+| 15   | 19-11-2025 | 11           | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | [Modul 14](https://drive.google.com/file/d/1dxUzeyWd1REHruwl0fhJyV6eiMFYFU56/view?usp=drivesdk) | [Program](https://github.com/Nrmadn/PraktikumMobile_Modul14) | 
